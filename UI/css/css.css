@@ -13,7 +13,7 @@ main {
 main .sidenav {
   flex-basis: 15%;
   margin-right: 20px;
-  background: #4400b6;
+  background: #02063f;
   color: #fff;
   height: 100vh;
 }
@@ -80,7 +80,7 @@ main .sidenav ul li {
 }
 
 main .sidenav ul li:hover {
-  background: #5daaff;
+  background: #043468;
 }
 
 main .sidenav ul li a {
@@ -210,7 +210,7 @@ body {
 .more__grid--item {
   border: 1px solid #f2f2f2;
   padding: 20px;
-  background: #439dff;
+  background: #043468;
   color: #fff;
 }
 
@@ -231,7 +231,7 @@ body {
 }
 
 .main__area .message__container {
-  border: 1px solid #5daaff;
+  border: 1px solid #043468;
   margin: 20px 10%;
 }
 
@@ -254,7 +254,7 @@ body {
 
 .main__area .message__title a {
   text-decoration: none;
-  color: #5daaff;
+  color: #043468;
 }
 
 .main__area .message__time {
@@ -267,7 +267,7 @@ body {
 
 .groups__item {
   padding: 10px;
-  background: #71b5ff;
+  background: #043468;
   margin-bottom: 8px;
   text-decoration: none;
   display: flex;
@@ -276,7 +276,7 @@ body {
 }
 
 header {
-  background: #5daaff;
+  background: #043468;
 }
 
 header nav {
@@ -286,7 +286,7 @@ header nav {
 }
 
 header nav .brand a {
-  color: #4400b6;
+  color: #02063f;
   text-decoration: none;
 }
 
@@ -302,7 +302,7 @@ header nav .menu {
 
 header nav .menu li {
   margin-right: 20px;
-  background: #4400b6;
+  background: #02063f;
   padding: 8px;
   transition: 0.5s ease-out;
 }
@@ -312,7 +312,7 @@ header nav .menu li:hover {
 }
 
 header nav .menu li:hover a {
-  color: #5daaff;
+  color: #043468;
 }
 
 header nav .menu li a {
@@ -321,12 +321,12 @@ header nav .menu li a {
 }
 
 .primary {
-  color: #4400b6;
+  color: #02063f;
 }
 
 .bg-primary {
   color: #fff;
-  background: #4400b6;
+  background: #02063f;
 }
 
 .bg-dark {
@@ -351,24 +351,24 @@ header nav .menu li a {
   }
 }
 .btn.btn-primary {
-  background: #4400b6;
+  background: #02063f;
   color: #fff;
-  border: 1px solid #4400b6;
+  border: 1px solid #02063f;
   transition: 0.5s ease-out;
 }
 .btn.btn-primary:hover {
   background: #fff;
-  color: #4400b6;
+  color: #02063f;
 }
 .btn.btn-secondary {
-  background: #5daaff;
+  background: #043468;
   color: #fff;
-  border: 1px solid #5daaff;
+  border: 1px solid #043468;
   transition: 0.5s ease-out;
 }
 .btn.btn-secondary:hover {
   background: #fff;
-  color: #5daaff;
+  color: #043468;
 }
 .btn.btn-dark {
   background: #000;
@@ -433,7 +433,7 @@ header nav .menu li a {
   background: #fff;
 }
 .nav__mobile ul li:hover a {
-  color: #5daaff;
+  color: #043468;
 }
 .nav__mobile ul li a {
   text-decoration: none;
@@ -454,24 +454,24 @@ header nav .menu li a {
   }
 }
 .btn__small.btn-primary {
-  background: #4400b6;
+  background: #02063f;
   color: #fff;
-  border: 1px solid #4400b6;
+  border: 1px solid #02063f;
   transition: 0.5s ease-out;
 }
 .btn__small.btn-primary:hover {
   background: #fff;
-  color: #4400b6;
+  color: #02063f;
 }
 .btn__small.btn-secondary {
-  background: #5daaff;
+  background: #043468;
   color: #fff;
-  border: 1px solid #5daaff;
+  border: 1px solid #043468;
   transition: 0.5s ease-out;
 }
 .btn__small.btn-secondary:hover {
   background: #fff;
-  color: #5daaff;
+  color: #043468;
 }
 .btn__small.btn-dark {
   background: #000;
@@ -513,7 +513,7 @@ header nav .menu li a {
 }
 .single {
   margin: auto 10%;
-  border: 1px solid #5daaff;
+  border: 1px solid #043468;
   padding: 20px;
 }
 .single strong {
